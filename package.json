@@ -1,0 +1,24 @@
+{
+  "name": "hacienda",
+  "version": "1.0.0",
+  "description": "Auction Site",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromechecketts/hacienda.git"
+  },
+  "author": "Jerome Checketts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromechecketts/hacienda/issues"
+  },
+  "homepage": "https://github.com/jeromechecketts/hacienda#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
